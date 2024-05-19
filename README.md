@@ -73,7 +73,7 @@ Building a model to predict whether a customer would be interested in Vehicle In
    * Please take a look at the machine learning modeling notebook for this classification cause if you need more details on the machine learning process, Thank you.
 ***
 ## Test data
-   * The model is tested for the teat data.
+   * The model is tested for the test data.
    * Responses have been predicted using KNN classifiaction model.
    * The recorded reponses along with the customer ID's has been saved in file name : Submission.csv
    * This test data is visualized using Tableau.
